@@ -11,6 +11,7 @@ I am currently searching for an internship involving either cybersecurity, IT/sy
 
 **- [Pluralsight Profile](https://app.pluralsight.com/profile/cole-houston)**
 
+**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
 
 ## Write-ups
 
