@@ -12,9 +12,10 @@ I am currently searching for an internship involving either cybersecurity, IT/sy
 **- [Pluralsight Profile](https://app.pluralsight.com/profile/cole-houston)**
 
 
-## Writeups
+## Write-ups
 
-Links to CTF and challenge writeups will be posted below
+Links to CTF and challenge write-ups will be posted below
+
 
 
 ![Hack The Box](https://www.hackthebox.eu/badge/image/114142)
