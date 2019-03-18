@@ -5,13 +5,14 @@ I am currently searching for an internship involving either cybersecurity, IT/sy
 
 
 ## Links
+**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
+
+**- [Pluralsight Profile](https://app.pluralsight.com/profile/cole-houston)**
+
 **- [Hackthebox Profile](https://www.hackthebox.eu/profile/114142)**
 
 **- [HackerOne Profile](https://hackerone.com/rollie)**
 
-**- [Pluralsight Profile](https://app.pluralsight.com/profile/cole-houston)**
-
-**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
 
 ## Write-ups
 
