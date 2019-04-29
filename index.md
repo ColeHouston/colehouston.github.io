@@ -13,11 +13,11 @@ I am currently searching for an internship involving either cybersecurity, IT/sy
 
 **- [HackerOne Profile](https://hackerone.com/rollie)**
 
+## Developed Tools
+- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)
 
 ## Write-ups
-
 Links to CTF and challenge write-ups will be posted below
-
 
 
 ![Hack The Box](https://www.hackthebox.eu/badge/image/114142)
