@@ -1,7 +1,6 @@
 # Introduction
 
-Cybersecurity major at Northwest Missouri State University with a minor in computer science.  
-I am currently searching for an internship involving either cybersecurity, IT/systems administration, or software development.  
+Cybersecurity major at Northwest Missouri State University with a minor in computer science. I primarily study offensive security and participate in CTFs for hacking.  
 [See my resume here](resume.pdf)
 
 ## Links
