@@ -1,6 +1,6 @@
 # Introduction
 
-Cybersecurity major at Northwest Missouri State University with a minor in computer science. I primarily study offensive security and I participate in CTFs for hacking.  
+Recent graduate from Northwest Missouri State University with a major in Cybersecurity and a minor in Computer Science.  I primarily study offensive security and I participate in hacking CTFs in my free time.  I also practice some lock picking and bypassing techniques.
 [See my resume here](resume.pdf)
 
 ## Links
