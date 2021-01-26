@@ -1,7 +1,7 @@
 # Introduction
 
 Graduate from Northwest Missouri State University with a major in Cybersecurity and a minor in Computer Science.  I primarily study offensive security and I participate in hacking CTFs in my free time.  I also practice some lock picking and bypassing techniques.
-[See my resume here](resume2020.pdf)
+[See my resume here](resume2021.pdf)
 
 ## Links
 **- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
