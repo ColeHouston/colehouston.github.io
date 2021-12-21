@@ -19,6 +19,8 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Skeleton Keyfob: Rolljam attacks on cars](https://github.com/ColeHouston/skeleton-keyfob)**
 
+**- [Word Document Process Hollowing](https://github.com/ColeHouston/word-vba-process-hollowing)**
+
 ## Blog Posts
 Coming Soon: exploit and malware development focused posts
 
