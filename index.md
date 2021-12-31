@@ -1,6 +1,6 @@
 # Introduction
 
-Graduate from Northwest Missouri State University with a major in Cybersecurity and a minor in Computer Science. I primarily study offensive security and I participate in hacking CTFs in my free time. I also practice some lock picking and bypassing techniques.
+Graduate from Northwest Missouri State University with a major in Cybersecurity and a minor in Computer Science. I primarily study offensive security and I participate in hacking CTFs in my free time. I also practice some lock picking and bypassing techniques. I completed the OSCP and OSCE3 exams in 2021.
 
 I am currently focused on malware and exploit development, and have begun studying browser exploitation techniques. I hope to take the Advanced Windows Exploitation (OSEE) course by Offensive Security sometime in the next couple of years.
 [See my resume here](resume2022.pdf)
