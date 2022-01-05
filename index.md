@@ -21,6 +21,8 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Word Document Process Hollowing and AMSI Bypass](https://github.com/ColeHouston/word-vba-process-hollowing)**
 
+**- [Persistent Malware on Linux](https://github.com/ColeHouston/linux-persistence-malware)**
+
 ## Blog Posts
 Coming Soon: exploit and malware development focused posts
 
