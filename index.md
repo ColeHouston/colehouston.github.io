@@ -23,6 +23,8 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Persistent Malware on Linux](https://github.com/ColeHouston/linux-persistence-malware)**
 
+**- [DLL Injection in Powershell with AMSI Bypass](https://github.com/ColeHouston/Powershell-DLL-Injection)**
+
 ## Blog Posts
 Coming Soon: exploit and malware development focused posts
 
