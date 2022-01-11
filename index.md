@@ -12,9 +12,9 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Word Document Process Hollowing and AMSI Bypass](https://github.com/ColeHouston/word-vba-process-hollowing)**
 
-**- [Persistent Malware on Linux](https://github.com/ColeHouston/linux-persistence-malware)**
-
 **- [DLL Injection in Powershell with AMSI Bypass](https://github.com/ColeHouston/Powershell-DLL-Injection)**
+
+**- [Persistent Malware on Linux](https://github.com/ColeHouston/linux-persistence-malware)**
 
 ## Links
 **- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
