@@ -10,6 +10,8 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Skeleton Keyfob: Rolljam attacks on cars](https://github.com/ColeHouston/skeleton-keyfob)**
 
+**- [Custom x86 COM Hijacking Shellcode](https://github.com/ColeHouston/x86-com-hijack-shellcode)**
+
 **- [Thread Execution Hijacking in C#](https://github.com/ColeHouston/thread-hijacking-in-csharp)**
 
 **- [Word Document Process Hollowing and AMSI Bypass](https://github.com/ColeHouston/word-vba-process-hollowing)**
