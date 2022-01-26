@@ -12,6 +12,8 @@ I am currently focused on malware and exploit development, and have begun studyi
 
 **- [Custom x86 COM Hijacking Shellcode](https://github.com/ColeHouston/x86-com-hijack-shellcode)**
 
+**- [Custom x64 Shellcode Encoder](https://github.com/ColeHouston/x64-shellcode-encoder)**
+
 **- [Thread Execution Hijacking in C#](https://github.com/ColeHouston/thread-hijacking-in-csharp)**
 
 **- [Word Document Process Hollowing and AMSI Bypass](https://github.com/ColeHouston/word-vba-process-hollowing)**
