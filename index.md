@@ -1,8 +1,8 @@
 # Introduction
 
-Graduate from Northwest Missouri State University with a major in Cybersecurity and a minor in Computer Science. I primarily study offensive security and I participate in hacking CTFs in my free time. I also practice some lock picking and bypassing techniques. I completed the OSCP and OSCE3 exams in 2021.
+I am a Red Team Operator with a specialty in developing exploits and malware, along with previous experience in cloud penetration testing, application security, and incident response. I have conducted offensive engagements against 'traditional' networks comprised of Windows/Linux endpoints and Active Directory as well as networks with infrastructure located in the cloud with exclusively macOS endpoints.
 
-I am currently focused on malware and exploit development, and have begun studying browser exploitation techniques. I hope to take the Advanced Windows Exploitation (OSEE) course by Offensive Security sometime in the next couple of years.
+I have earned certifications including: OSEE, OSMR, OSCE3, OSCP, CRTL, CRTO
 [See my resume here](resume2022.pdf)
 
 ## Developed Tools
