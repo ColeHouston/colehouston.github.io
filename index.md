@@ -1,8 +1,9 @@
 # Introduction
 
-I am a Red Team Operator with a specialty in developing exploits and malware, along with previous experience in cloud penetration testing, application security, and incident response. I have conducted offensive engagements against 'traditional' networks comprised of Windows/Linux endpoints and Active Directory as well as networks with infrastructure located in the cloud with exclusively macOS endpoints.
+I am a senior red team operator with a specialty in developing exploits and malware, along with previous experience in cloud penetration testing, application security, and incident response. I have conducted offensive engagements against 'traditional' networks comprised of Windows/Linux endpoints and Active Directory as well as networks with infrastructure located in the cloud with exclusively macOS endpoints.
 
 I have earned certifications including: OSEE, OSMR, OSCE3, OSCP, CRTL, CRTO
+
 [See my resume here](resume2022.pdf)
 
 ## Developed Tools
