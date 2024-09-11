@@ -4,7 +4,7 @@ I am a senior red team operator with a specialty in developing exploits and malw
 
 I have earned certifications including: OSEE, OSMR, OSCE3, OSCP, CRTL, CRTO
 
-[See my resume here](resume2022.pdf)
+**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
 
 ## Developed Tools
 **- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
@@ -23,14 +23,6 @@ I have earned certifications including: OSEE, OSMR, OSCE3, OSCP, CRTL, CRTO
 
 **- [Persistent Malware on Linux](https://github.com/ColeHouston/linux-persistence-malware)**
 
-## Links
-**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
-
-**- [Pluralsight Profile](https://app.pluralsight.com/profile/cole-houston)**
-
-**- [Hackthebox Profile](https://www.hackthebox.eu/profile/114142)**
-
-**- [HackerOne Profile](https://hackerone.com/rollie)**
 
 ## Blog Posts
 Coming Soon: exploit and malware development focused posts
