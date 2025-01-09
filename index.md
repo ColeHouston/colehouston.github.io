@@ -3,8 +3,7 @@
 I am a senior red team operator with a specialty in developing exploits and malware, along with previous experience in cloud penetration testing, application security, and incident response. I have conducted offensive engagements against 'traditional' networks comprised of Windows/Linux endpoints and Active Directory as well as networks that use infrastructure located in the cloud with exclusively macOS endpoints.
 
  - Certifications include: OSEE, OSMR, OSCE3, OSCP, CRTL, CRTO
-
-**- [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)**
+ - [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)
 
 ## Developed Tools
 **- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
