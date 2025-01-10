@@ -8,7 +8,9 @@ I am a senior red team operator with a specialty in developing exploits and malw
 ## Developed Tools
 **- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
 
-**- [Skeleton Keyfob: Rolljam attacks on cars](https://github.com/ColeHouston/skeleton-keyfob)**
+**- [Skeleton Keyfob: Rolljam Attacks on Cars](https://github.com/ColeHouston/skeleton-keyfob)**
+
+**- [Sunder: Windows BYOVD Rootkit](https://github.com/ColeHouston/Sunder)**
 
 **- [Custom x86 COM Hijacking Shellcode](https://github.com/ColeHouston/x86-com-hijack-shellcode)**
 
