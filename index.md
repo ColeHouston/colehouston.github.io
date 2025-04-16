@@ -23,5 +23,5 @@ I am a senior red team operator specializing in exploit and malware development,
 ## Talks and Blogs
 **- [Exploit Dev for Adversary Emulation](Exploit_Dev_for_RT.pdf)**
 
-**- [Modern Covert Operations](Covert Ops.pdf)**
+**- [Modern Covert Operations](Covert_Ops.pdf)**
 
