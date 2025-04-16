@@ -21,6 +21,7 @@ I am a senior red team operator specializing in exploit and malware development,
 **- [C# Thread Hijacking Loader](https://github.com/ColeHouston/thread-hijacking-in-csharp)**
 
 ## Talks and Blogs
-Coming Soon: exploit and malware development focused posts
+**- [Exploit Dev for Adversary Emulation](Exploit_Dev_for_RT.pdf)**
 
+**- [Modern Covert Operations](Covert Ops.pdf)**
 
