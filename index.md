@@ -1,5 +1,3 @@
-https://discord.com/channels/@me/901207262390005812/1384664418700496896
-
 # Introduction
 
 I am a senior red team operator specializing in exploit and malware development, with previous experience in cloud penetration testing, application security, and incident response. I have conducted engagements against Active Directory networks comprised of Windows/Linux endpoints and against networks that utilize cloud infrastructure with macOS endpoints.
