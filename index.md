@@ -6,6 +6,8 @@ I am a senior red team operator specializing in exploit and malware development,
  - [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)
 
 ## Developed Tools
+**- [theHandler BOF: Handle Tampering to Dump Credentials](https://github.com/ColeHouston/theHandler-BOF)**
+
 **- [Sunder: Windows BYOVD Rootkit](https://github.com/ColeHouston/Sunder)**
 
 **- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
