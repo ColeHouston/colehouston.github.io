@@ -6,21 +6,24 @@ I am a senior red team operator specializing in exploit and malware development,
  - [LinkedIn Profile](https://linkedin.com/in/cole-houston-1a91b2170)
 
 ## Developed Tools
-**- [theHandler BOF: Handle Tampering to Dump Credentials](https://github.com/ColeHouston/theHandler-BOF)**
-
 **- [Sunder: Windows BYOVD Rootkit](https://github.com/ColeHouston/Sunder)**
 
-**- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
+**- [theHandler BOF: Handle Tampering to Dump Credentials](https://github.com/ColeHouston/theHandler-BOF)**
 
 **- [Skeleton Keyfob: Rolljam Attacks on Cars](https://github.com/ColeHouston/skeleton-keyfob)**
 
-**- ['Scoop the Pool' Template: Pool Overflow Exploit Outline](https://github.com/ColeHouston/Scoop-the-Pool-Template)**
+**- [Tetanus: RSA Private Key Cracker](https://github.com/ForeverAnApple/Tetanus)**
+
+
+## Techniques
+**- ['Scoop the Pool' Pool Overflow Exploit Template](https://github.com/ColeHouston/Scoop-the-Pool-Template)**
 
 **- [x86 COM Hijacking Shellcode](https://github.com/ColeHouston/x86-com-hijack-shellcode)**
 
 **- [x64 Shellcode Encoder](https://github.com/ColeHouston/x64-shellcode-encoder)**
 
 **- [C# Thread Hijacking Loader](https://github.com/ColeHouston/thread-hijacking-in-csharp)**
+
 
 ## Talks and Blogs
 **- [Exploit Dev for Adversary Emulation](Exploit_Dev_for_RT.pdf)**
